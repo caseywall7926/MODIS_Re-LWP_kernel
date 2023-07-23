@@ -7,6 +7,9 @@ These files are the shortwave (SW) cloud radiative kernels for liquid-topped clo
 
 Please cite Wall et al. (2023) when using these kernels in publications.
 
+
 References:
+
 Wall, C. J., Storelvmo, T., and Possner, A.: Global Observations of Aerosol Indirect Effects from Marine Liquid Clouds, EGUsphere (preprint), https://doi.org/10.5194/egusphere-2023-1436, 2023.
+
 Pincus, R., Hubanks, P. A., Platnick, S., Meyer, K., Holz, R. E., Botambekov, D., and Wall, C. J.: Updated observations of clouds by MODIS for global model assessment, Earth Syst. Sci. Data, 15, 2483–2497, https://doi.org/10.5194/essd-15-2483-2023, 2023.
