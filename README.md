@@ -1,7 +1,7 @@
 # MODIS Re-LWP kernels
-These files are the shortwave (SW) cloud radaitive kernels for liquid-topped clouds that can be used with joint histograms partitioned by cloud-droplet effective radius (Re) and liquid water path (LWP) from the Moderate Resolution Imaging Spectroradiometer (MODIS) satellite instrument. Information about the kernels can be found in Wall et al. (2023), and information about the MODIS data can be found in Pincus et al. (2023). Two kernels are included:
-(1) SW_kernel_liquid_lat_alb.nc: kernel with dimensions of Re, LWP, latitude, surface albedo, and calendar month. This kernel can be trasformed from latitude-surface-albedo space to latitude-longitude space with linear interpolation.
-(2) SW_kernel_liquid_lat_lon.nc: kernel with dimensions of Re, LWP, latitude, longitude, and calendar month. Surface albedo is taken from the Clouds and the Earth's Radiant Energy System (CERES) Energy Balanced and Filled (EBAF) ed. 4.1 dataset.
+These files are the shortwave (SW) cloud radiative kernels for liquid-topped clouds that can be used with joint histograms partitioned by cloud-droplet effective radius (Re) and liquid water path (LWP) from the Moderate Resolution Imaging Spectroradiometer (MODIS) satellite instrument. Information about the kernels can be found in Wall et al. (2023), and information about the MODIS data can be found in Pincus et al. (2023). Two kernels are included:
+(1) SW_kernel_liquid_lat_alb.nc: kernel with dimensions of Re, LWP, latitude, surface albedo, and calendar month. This kernel can be transformed from latitude-surface-albedo space to latitude-longitude space with linear interpolation.
+(2) SW_kernel_liquid_lat_lon.nc: kernel with dimensions of Re, LWP, latitude, longitude, and calendar month. Surface albedo is taken from the Clouds and the Earth's Radiant Energy System (CERES) Energy Balanced and Filled (EBAF) ed. 4.1 satellite dataset.
 
 Please cite Wall et al. (2023) when using these kernels in publications.
 
